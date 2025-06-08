@@ -1,4 +1,4 @@
-# Still Shine
+# Responsive Website
 
 My First Responsive Website Project
 
@@ -8,6 +8,6 @@ My First Responsive Website Project
 
 - This project was built following the course:
 
-* "Creating a Responsive Web Design by Chris" Converse
+* "Creating a Responsive Web Design" by Chris Converse
 
 - A big thank you to the instructor and LinkedIn Learning for providing such a valuable resource to kickstart my web development journey!
