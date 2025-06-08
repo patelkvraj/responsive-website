@@ -1,13 +1,15 @@
 # Responsive Website
 
-My First Responsive Website Project
+## My First Responsive Website Project:
 
-- This repository contains the code for my first responsive website, built as part of a learning journey.
+- https://patelkvraj.github.io/responsive-website/
 
-## Learning Resources & Acknowledgements
+This repository contains the code for my first responsive website, built as part of a learning journey.
 
-- This project was built following the course:
+### Learning Resources & Acknowledgements
 
-* "Creating a Responsive Web Design" by Chris Converse
+This project was built following the course:
 
-- A big thank you to the instructor and LinkedIn Learning for providing such a valuable resource to kickstart my web development journey!
+- "Creating a Responsive Web Design" by Chris Converse
+
+A big thank you to the instructor and LinkedIn Learning for providing such a valuable resource to kickstart my web development journey!
