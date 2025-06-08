@@ -1,12 +1,10 @@
 # Responsive Website
 
-## My First Responsive Website Project:
-
 - https://patelkvraj.github.io/responsive-website/
 
 This repository contains the code for my first responsive website, built as part of a learning journey.
 
-### Learning Resources & Acknowledgements
+## Learning Resources & Acknowledgements
 
 This project was built following the course:
 
