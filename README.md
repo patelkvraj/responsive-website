@@ -8,6 +8,6 @@ This repository contains the code for my first responsive website, built as part
 
 This project was built following the course:
 
-- "Creating a Responsive Web Design" by Chris Converse
+- "Creating a Responsive Web Design" by Chris Converse on LinkedIn Learning
 
 A big thank you to the instructor and LinkedIn Learning for providing such a valuable resource to kickstart my web development journey!
