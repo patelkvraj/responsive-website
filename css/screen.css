@@ -504,6 +504,28 @@ footer a:hover {
     margin-bottom: 10px;
   }
 
+  /* Section - Main */
+  section.main aside {
+    width: 100%;
+    float: none;
+    text-align: left;
+  }
+
+  section.main aside div.content {
+    margin: 8px 20px 8px 0px;
+    padding: 5px 0px 10px 85px;
+    background-size: 50px 50px;
+    background-position: 20px 5px;
+  }
+
+  /* Section - Atmosphere */
+
+  section.atmosphere article {
+    padding: 160px 20px 0px 0px;
+    background-size: 300px auto;
+    min-height: initial;
+  }
+
   /* Navigation */
   nav {
     position: static;
