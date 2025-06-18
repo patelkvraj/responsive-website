@@ -47,6 +47,13 @@ a:visited {
   text-decoration: none;
 }
 
+a::after,
+a:visited::after {
+  content: " (" attr(href) ")";
+  font-style: italic;
+  word-wrap: break-word;
+}
+
 nav {
   display: none;
 }
@@ -68,8 +75,15 @@ header a.logo {
   left: 20px;
 }
 
-header a.logo::after {
+header a.logo::before {
   content: url(../images/logo_print.svg);
+}
+
+header a.logo::after {
+  display: block;
+  position: absolute;
+  top: 20px;
+  left: 175px;
 }
 
 header a.logo span {
@@ -81,4 +95,8 @@ header div.hero {
   position: absolute;
   top: 110px;
   left: 20px;
+}
+
+header div.hero a::after {
+  display: block;
 }
