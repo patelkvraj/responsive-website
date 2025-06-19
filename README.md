@@ -25,8 +25,23 @@ The primary goal of this project was to:
 
 ## Technologies Used
 
-- HTML5: For the website's structure and content.
-- CSS3: For styling and layout.
+### HTML5
+
+For the website's structure and content.
+
+### CSS3
+
+For styling and layout.
+
+## Key Accomplisments
+
+### Responsive Design
+
+The website features a responsive design, meaning it seamlessly adapts to various device sizes. This ensures an optimal viewing experience whether you're accessing it from a desktop computer, tablet, or smartphone.
+
+### Printer Friendy Layout
+
+We've implemented a dedicated printer-friendly layout for the website's content. When users print pages from the site, they'll experience a clean, optimized version free from unnecessary on-screen elements like navigation, sidebars, and ads, ensuring the main content is clear and easy to read on paper.
 
 ## Learning Resources & Acknowledgements
 
